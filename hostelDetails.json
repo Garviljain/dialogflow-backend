@@ -1,0 +1,93 @@
+[
+	{
+        "id": "h14",
+		"name": "H14 VINODINI",
+		"capacity": 884,
+		"gender": "M",
+		"year": [1, 2, 3, 4],
+		"wardenDetails": {
+			"name": "Dr.Anup Malik",
+			"mobile": "9549650950",
+			"email": "anup.mech@mnit.ac.in"
+		},
+		"caretakerDetails": {
+			"name": "Mr. Gopal Singh",
+			"mobile": "9351467398"
+		},
+        "canteen": false,
+        "nonVeg": true,
+        "tripleOccupancy": true,
+        "ethernet": true,
+        "laundry": true,
+        "sports": ["Badminton"],
+        "commonRoom": true
+	},
+	{
+        "id": "h9",
+		"name": "H9 AUROBINDO",
+		"capacity": 950,
+		"gender": "M",
+		"year": [2, 3, 4],
+		"wardenDetails": {
+			"name": "Dr.Virendra Kumar Saharan",
+			"mobile": "9549654175",
+			"email": "vksaharan.chem@mnit.ac.in"
+		},
+		"caretakerDetails": {
+			"name": "Mr. Bhupendra Pandey",
+			"mobile": "9782226202"
+		},
+        "canteen": false,
+        "nonVeg": true,
+        "tripleOccupancy": false,
+        "ethernet": true,
+        "laundry": true,
+        "sports": ["Basketball"]
+	},
+	{
+        "id": "ach",
+		"name": "ACHARYA BHAWAN",
+		"capacity": 450,
+		"gender": "F",
+		"year": [1, 2, 3, 4],
+		"wardenDetails": {
+			"name": "Dr. Meena Nemiwal",
+			"mobile": "9549650328",
+			"email": "meena.chy@mnit.ac.in"
+		},
+		"caretakerDetails": {
+			"name": "Smt. Mamta Mittal",
+			"mobile": "9549659025"
+		},
+        "canteen": false,
+        "nonVeg": true,
+        "tripleOccupancy": false,
+        "ethernet": true,
+        "laundry": true,
+        "sports": ["Basketball"],
+        "commonRoom": true
+	},
+	{
+        "id": "h12",
+		"name": "H12 GARGI",
+		"capacity": 402,
+		"gender": "F",
+		"year": [1, 2, 3, 4],
+		"wardenDetails": {
+			"name": "Dr. Bhavna Shrivastava",
+			"mobile": "9549650478",
+			"email": "bhavna.arch@mnit.ac.in"
+		},
+		"caretakerDetails": {
+			"name": "Mrs. Leela Rawat",
+			"mobile": "7792893017"
+		},
+        "canteen": false,
+        "nonVeg": true,
+        "tripleOccupancy": false,
+        "ethernet": true,
+        "laundry": true,
+        "sports": ["Basketball"],
+        "commonRoom": true
+	}
+]
